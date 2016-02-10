@@ -1,2 +1,1 @@
-# Java
-Everything related to Java technologies
+# Everything related to Java technologies

@@ -1,1 +1,1 @@
-# Everything related to Java technologies
+# Algorythm write in Java

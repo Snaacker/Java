@@ -1,1 +1,1 @@
-# Save code snipper to retrieve when need
+# Save code snippet to retrieve when need

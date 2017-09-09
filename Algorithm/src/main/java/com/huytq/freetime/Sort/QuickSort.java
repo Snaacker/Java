@@ -1,4 +1,4 @@
-package com.huytq.freetime.Sort;
+package com.huytq.freetime.sort;
 
 /**
  * Created by tqh on 2/27/2016.
